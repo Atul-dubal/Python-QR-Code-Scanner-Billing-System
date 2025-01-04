@@ -19,6 +19,16 @@ Welcome to the Smart Shop Billing System GitHub repository! This repository cont
 - **Barcode Generation**: Generates barcodes for products using QR codes.
 - **Database Integration**: Utilizes SQLite for storing product and user data.
 
+
+## 🚀 Want Access to the Source Code?
+
+The source code for this project is not publicly available in this repository. If you're interested in accessing the source code:
+
+📧 **Contact me via email**: `atuldubal199@gmail.com`  
+Or reach out to me on **[LinkedIn](https://in.linkedin.com/in/atul-dubal-4a3a66288)**.
+Or Whatsapp me on `+91 8928333079`
+
+
 ## Installation
 
 To run the Smart Shop Billing System locally, follow these steps:
