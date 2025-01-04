@@ -2,6 +2,16 @@
 
 Welcome to the Smart Shop Billing System GitHub repository! This repository contains a Python application for managing billing and inventory in a shop. Below is a brief overview of the application's features and how to use it.
 
+
+## 🚀 Want Access to the Source Code?
+
+The source code for this project is not publicly available in this repository. If you're interested in accessing the source code:
+
+📧 **Contact me via email**: `atuldubal199@gmail.com`  
+Or reach out to me on **[LinkedIn](https://in.linkedin.com/in/atul-dubal-4a3a66288)**.
+Or Whatsapp me on `+91 8928333079`
+
+
 ## Project Images/ScreenShots
 ![python-1](https://github.com/user-attachments/assets/e54b9323-df20-4908-aa26-98ebaf9aaaed)
 ![python-2](https://github.com/user-attachments/assets/18690275-0cff-40c7-bce4-05a81d1b30d2)
@@ -18,16 +28,6 @@ Welcome to the Smart Shop Billing System GitHub repository! This repository cont
 - **Billing/Invoicing**: Enables users to generate invoices for purchases.
 - **Barcode Generation**: Generates barcodes for products using QR codes.
 - **Database Integration**: Utilizes SQLite for storing product and user data.
-
-
-## 🚀 Want Access to the Source Code?
-
-The source code for this project is not publicly available in this repository. If you're interested in accessing the source code:
-
-📧 **Contact me via email**: `atuldubal199@gmail.com`  
-Or reach out to me on **[LinkedIn](https://in.linkedin.com/in/atul-dubal-4a3a66288)**.
-Or Whatsapp me on `+91 8928333079`
-
 
 ## Installation
 
