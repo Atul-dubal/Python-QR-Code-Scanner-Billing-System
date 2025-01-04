@@ -3,12 +3,12 @@
 Welcome to the Smart Shop Billing System GitHub repository! This repository contains a Python application for managing billing and inventory in a shop. Below is a brief overview of the application's features and how to use it.
 
 ## Project Images/ScreenShots
-![python-1](https://github.com/user-attachments/assets/ed339213-cca9-4584-924c-1129f630697b)
-![python-2](https://github.com/user-attachments/assets/185db411-8066-420b-8933-4affe71a1d4f)
-![python-3](https://github.com/user-attachments/assets/0da0a1e0-1649-403e-913b-234edc93728e)
-![python-5](https://github.com/user-attachments/assets/97a90cb8-c495-415c-803e-b0eaf4fcfae0)
-![python-6](https://github.com/user-attachments/assets/a49679b6-ec32-47d2-b1ed-b171f4d55789)
-![python-7](https://github.com/user-attachments/assets/3f099960-24d5-4db9-9209-485706ba6b35)
+![python-1](https://github.com/user-attachments/assets/e54b9323-df20-4908-aa26-98ebaf9aaaed)
+![python-2](https://github.com/user-attachments/assets/18690275-0cff-40c7-bce4-05a81d1b30d2)
+![python-3](https://github.com/user-attachments/assets/7d676bde-892f-4c34-a83a-b2a387a065e3)
+![python-5](https://github.com/user-attachments/assets/3e3e91ba-3c2b-4e6d-857f-f8efcb4b9817)
+![python-6](https://github.com/user-attachments/assets/27ff2bad-fa27-4896-8e97-f048b08e307c)
+![python-7](https://github.com/user-attachments/assets/a5dfe867-884c-4717-b88c-2e2c8f73a94c)
 
 ## Features
 
